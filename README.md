@@ -1,46 +1,87 @@
-# Gabrielle Segers
+<div align="center">
 
-### À propos de moi
-Passionné par les jeux vidéos et le design graphique.
-* **Actuellement :** Etudiente en DEUST WMI à l'ULCO de Calais.
-* **Intérêts :** Jeux vidéos, Culture Asiatique, Pokémon.
+# 🌸 **Gabrielle Segers**
+### Étudiante en DEUST WMI — Communication • Web • Création Visuelle
 
----
-
-### 💼 Expériences & Projets
-
-**Chargée de communication** | *CALAISFORNIA CALAIS*
-*Date : Mars 2025 - Juin 2025*
-- Communication sur les réseaux sociaux (Instagram/TikTok).
-- Création de vidéos / shooting photo.
-  
-**Agent d'accueil** | *Beffroi de Calais UNESCO*
-*Date : NOvembre 2023 - Décembre 2023*
-- Accueil des visiteurs français et étrangers.
-- Création d'animations pour les visites scolaires.
-  
-**Réceptionniste** | *Village océanique île de Ré*
-*Date : Avril 2023 - Septembre 2023*
-- Création d'animations thème écologie.
-- Création d'affiches présentes sur le village vacances.
-- Prise de photo lors des animations pour les réseaux sociaux (Instagram/Faceebook)
-
-**Réceptionniste** | *Comité departemental du tourisme de Toulouse*
-*Date : Novembre 2022 - Décembre 2023*
-- Aide à la création et à l'animation d'un stand au salon du tourisme de Toulouse.
-- Création de goodies écologiques.
+Passionnée par les **jeux vidéo**, le **design graphique** et la **culture asiatique**,  
+je combine créativité, communication et technologies pour donner vie à des projets modernes et impactants.
 
 ---
 
-### 💻 Technologies
-* **Langages :** JavaScript, PHP, SQL.
-* **Frontend :** React, Tailwind CSS
-* **Outils :** Git, VS Code.
+</div>
+
+## 💼 **Expériences Professionnelles**
+
+### 🎥 **Chargée de communication** — *Calaisfornia, Calais*  
+**Mars 2025 – Juin 2025**  
+- Gestion et animation des réseaux sociaux (Instagram, TikTok).  
+- Création de contenus vidéo, shootings photo.  
+- Contribution à l’identité visuelle de la marque.  
 
 ---
 
-### 📫 Me contacter
-N'hésite pas à me contacter pour discuter de projets ou juste pour dire bonjour !
+### 🏛️ **Agent d’accueil** — *Beffroi de Calais (UNESCO)*  
+**Novembre 2023 – Décembre 2023**  
+- Accueil des visiteurs français et internationaux.  
+- Création d’animations pédagogiques pour les groupes scolaires.  
+- Participation à la mise en valeur du patrimoine local.
 
-* [LinkedIn](https://www.linkedin.com/in/lily-gabrielle-segers-a65a132a2/)
-* [Email](mailto:lilyrose62340@gmail.com)
+---
+
+### 🌿 **Réceptionniste** — *Village Océanique, Île de Ré*  
+**Avril 2023 – Septembre 2023**  
+- Conception d’animations autour de l’écologie.  
+- Création d’affiches et supports visuels pour le village vacances.  
+- Photos & petites vidéos pour les réseaux sociaux.
+
+---
+
+### 🎪 **Réceptionniste** — *Comité Départemental du Tourisme de Toulouse*  
+**Novembre 2022 – Décembre 2022**  
+- Aide à la conception et à l’animation d’un stand au Salon du Tourisme.  
+- Création de goodies écoresponsables.  
+
+---
+
+## 💻 **Compétences & Technologies**
+
+### 🔹 Langages  
+- JavaScript  
+- PHP  
+- SQL  
+
+### 🔹 Frontend  
+- React  
+- Tailwind CSS  
+
+### 🔹 Outils  
+- Git  
+- VS Code  
+- Notions de design graphique (affiches, contenus réseaux sociaux)
+
+---
+
+## 🎮 **Centres d’intérêt**
+- Jeux vidéo (Pokémon, RPG, design narratif)  
+- Culture asiatique  
+- Photographie & création de contenus  
+- Infographie et communication visuelle  
+
+---
+
+## 📫 **Me contacter**
+
+Tu veux discuter d’un projet, collaborer ou simplement échanger ?  
+→ Je suis toujours ouverte aux nouvelles opportunités !
+
+- **LinkedIn :** [Gabrielle Segers](https://www.linkedin.com/in/lily-gabrielle-segers-a65a132a2/)  
+- **Email :** [lilyrose62340@gmail.com](mailto:lilyrose62340@gmail.com)
+
+---
+
+<div align="center">
+
+✨ *“Créer, imaginer, partager — toujours avec passion.”* ✨
+
+</div>
+
