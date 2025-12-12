@@ -1,16 +1,17 @@
-## Hi there 👋
+# Gabrielle Segers
 
-<!--
-**555ikat/555ikat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### À propos de moi
+Passionné par les jeux vidéos et le design graphique.
+* **Actuellement :** Etudiente en DEUST WMI à l'ULCO de Calais.
+* **Intérêts :** Jeux vidéos, Culture Asiatique, Pokémon.
 
-Here are some ideas to get you started:
+### 💻 Technologies
+* **Langages :** JavaScript, PHP, SQL.
+* **Frontend :** React, Tailwind CSS
+* **Outils :** Git, VS Code.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📫 Me contacter
+N'hésite pas à me contacter pour discuter de projets ou juste pour dire bonjour !
+
+* [LinkedIn](https://www.linkedin.com/in/lily-gabrielle-segers-a65a132a2/)
+* [Email](mailto:lilyrose62340@gmail.com)
