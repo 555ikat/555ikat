@@ -5,6 +5,8 @@ Passionné par les jeux vidéos et le design graphique.
 * **Actuellement :** Etudiente en DEUST WMI à l'ULCO de Calais.
 * **Intérêts :** Jeux vidéos, Culture Asiatique, Pokémon.
 
+---
+
 ### 💼 Expériences & Projets
 
 **Chargée de communication** | *CALAISFORNIA CALAIS*
@@ -28,10 +30,14 @@ Passionné par les jeux vidéos et le design graphique.
 - Aide à la création et à l'animation d'un stand au salon du tourisme de Toulouse.
 - Création de goodies écologiques.
 
+---
+
 ### 💻 Technologies
 * **Langages :** JavaScript, PHP, SQL.
 * **Frontend :** React, Tailwind CSS
 * **Outils :** Git, VS Code.
+
+---
 
 ### 📫 Me contacter
 N'hésite pas à me contacter pour discuter de projets ou juste pour dire bonjour !
