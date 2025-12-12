@@ -51,8 +51,7 @@ je combine créativité, communication et technologies pour donner vie à des pr
 - SQL  
 
 ### 🔹 Frontend  
-- React  
-- Tailwind CSS  
+- CSS  
 
 ### 🔹 Outils  
 - Git  
