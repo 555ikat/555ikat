@@ -76,7 +76,6 @@ Tu veux discuter d’un projet, collaborer ou simplement échanger ?
 
 - **LinkedIn :** [Gabrielle Segers](https://www.linkedin.com/in/lily-gabrielle-segers-a65a132a2/)  
 - **Email :** [lilyrose62340@gmail.com](mailto:lilyrose62340@gmail.com)
-- **Mon Site :** [IkatDesign.com]
 
 ---
 
