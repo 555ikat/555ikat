@@ -53,8 +53,7 @@ je combine créativité, communication et technologies pour donner vie à des pr
 ### 🔹 Frontend  
 - CSS  
 
-### 🔹 Outils  
-- Git  
+### 🔹 Outils   
 - VS Code  
 - Notions de design graphique (affiches, contenus réseaux sociaux)
 - Suite Adobe (Photoshop/Indesign/Premiere Pro/Illustrator)
