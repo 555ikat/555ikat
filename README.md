@@ -183,6 +183,4 @@ Communication visuelle
 ---
 
 <div align="center">
-<sub>✨ Fait avec passion | Mise à jour régulière | Rouen, France 🇫🇷</sub>
-</div>![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,20&height=250&section=header&text=Gabrielle%20Segers&fontSize=70&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Communication%20Digitale%20•%20Développement%20Web%20•%20Création%20Visuelle&descAlignY=55&descSize=20)
-
+<sub>✨ Fait avec passion | Mise à jour régulière | Calais, France 🇫🇷</sub>
